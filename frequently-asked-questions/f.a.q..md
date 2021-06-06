@@ -12,7 +12,7 @@ We are open to working with any developers interested in creating an on-screen k
 For those lost as to why we want to ensure security there, a gaming keymapper will redirect any input from the users device, and can even run when a game is not loaded. So it has the potential to grab passwords, banking info, etc. 
 We don't trust anything we can't sift through the source of enough these days, so this is why we haven't included one as of yet
 
-## troubleshoot_sound:
+## Troubleshooting Sound:
 
 Sometimes the results of running $ lsmod do show that your sound is detected. The next thing to try is to open Play Store, and install "Volume Booster GOODEV" or any other sound boodter app, then open the AudioFX app if installed, and turn it off, then go Home and open the Volume Boost app and boost it to 15%-25% and test. This will solve most sound issues.
 There is also tools added to Gearlock Recovery that can help with most sound issues. Read the details about that here ([Points to remember] - #2 ): https://supreme-gamers.com/threads/how-to-fix-mic-sound-issues-in-phoenixos-darkmatter.62/page-2
