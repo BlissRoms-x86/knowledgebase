@@ -4,5 +4,5 @@
 
 ## Frequently Asked Questions
 
-* [F.A.Q.](frequently-asked-questions/f.a.q..md)
+* [F.A.Q.](frequently-asked-questions/faq.md)
 
