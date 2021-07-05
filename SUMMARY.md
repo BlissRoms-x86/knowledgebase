@@ -19,3 +19,7 @@
 * [Advanced Android-x86 Installer](supreme-gamers-resources-we-like/advanced-android-x86-installer.md)
 * [Linux Android-x86 Installer](supreme-gamers-resources-we-like/linux-android-x86-installer.md)
 
+## Guides
+
+* [Graphics Troubleshooting](guides/graphics-troubleshooting.md)
+
