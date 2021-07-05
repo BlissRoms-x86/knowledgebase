@@ -2,6 +2,10 @@
 
 * [Knowledgebase](README.md)
 
+## External Threads & Links
+
+* [XDA Threads](external-threads-and-links/xda-threads.md)
+
 ## Frequently Asked Questions
 
 * [F.A.Q.](frequently-asked-questions/faq.md)
