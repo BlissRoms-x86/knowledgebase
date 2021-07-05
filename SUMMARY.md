@@ -6,6 +6,7 @@
 
 * [F.A.Q.](frequently-asked-questions/faq.md)
 * [How to Log](frequently-asked-questions/how-to-log.md)
+* [Desktop Mode](frequently-asked-questions/desktop-mode.md)
 
 ## Supreme-Gamers Resources We Like
 
