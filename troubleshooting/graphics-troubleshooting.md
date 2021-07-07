@@ -1,4 +1,4 @@
-# Graphics Troubleshooting
+# Debug Graphics
 
 When booting into Bliss for the first time, some users may see a blinking cursor, scrambled graphics, or black screen. These are all signs that your device requires some configuration to get things to run. 
 
