@@ -12,6 +12,7 @@
 * [How to Log](frequently-asked-questions/how-to-log.md)
 * [Desktop Mode](frequently-asked-questions/desktop-mode.md)
 * [Vulkan Mode](frequently-asked-questions/vulkan-mode.md)
+* [Keyboard Shortcuts](frequently-asked-questions/keyboard-shortcuts.md)
 
 ## Supreme-Gamers Resources We Like
 
