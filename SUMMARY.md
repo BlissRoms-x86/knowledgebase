@@ -13,6 +13,7 @@
 * [Desktop Mode](frequently-asked-questions/desktop-mode.md)
 * [Vulkan Mode](frequently-asked-questions/vulkan-mode.md)
 * [Keyboard Shortcuts](frequently-asked-questions/keyboard-shortcuts.md)
+* [Sandboxing Apps](frequently-asked-questions/sandboxing-apps.md)
 
 ## Supreme-Gamers Resources We Like
 
