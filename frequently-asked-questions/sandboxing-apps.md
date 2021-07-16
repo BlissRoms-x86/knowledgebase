@@ -1,7 +1,5 @@
 # Sandboxing Apps
 
-SomewimesSomewimes
-
 Sometimes we have apps that check the system for root. In these cases, they will all fail their check unless you are running the app in a sandboxed environment. There are a couple aps we use to get around this. 
 
 #### Island
