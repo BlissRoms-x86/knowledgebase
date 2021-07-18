@@ -15,6 +15,7 @@
 * [Keyboard Shortcuts](frequently-asked-questions/keyboard-shortcuts.md)
 * [Sandboxing Apps](frequently-asked-questions/sandboxing-apps.md)
 * [Build Filenames](frequently-asked-questions/build-filenames.md)
+* [Hardware Compatibility](frequently-asked-questions/hardware-compatibility.md)
 
 ## Supreme-Gamers Resources We Like
 
