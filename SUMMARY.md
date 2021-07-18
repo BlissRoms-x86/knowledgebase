@@ -14,6 +14,7 @@
 * [Vulkan Mode](frequently-asked-questions/vulkan-mode.md)
 * [Keyboard Shortcuts](frequently-asked-questions/keyboard-shortcuts.md)
 * [Sandboxing Apps](frequently-asked-questions/sandboxing-apps.md)
+* [Build Filenames](frequently-asked-questions/build-filenames.md)
 
 ## Supreme-Gamers Resources We Like
 
