@@ -21,3 +21,12 @@ AMD:
 * AMD Desktop GPUs - mostly supported + Vulkan 
 * Nvidia Desktop GPUs - poor support - no vulkan \(Uses Nouveau drivers\)
 
+**Native-Bridge:**
+
+Native-Bridge is an ARM translation layer for android x86 developed by Intel and Google to run ARM apps on x86 architecture.  
+  
+How to identify Native-Bridge Types in ISO file ?
+
+* **houdini** - Includes Intel's Houdini \(Works with most Intel CPU's and some recent AMD CPU's\)
+* **libndk** - Includes Google's libndk-translation \(Works on all CPU's, but not as efficient as Houdini\) 
+
